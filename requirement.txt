@@ -1,0 +1,8 @@
+dlib
+numpy
+tensorflow
+keras_facenet
+pymongo
+dotenv
+pandas
+opencv-python
