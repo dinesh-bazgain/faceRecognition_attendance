@@ -1,1 +1,1 @@
-This project is in progress and is the upgraded version of my old face recognition system. This project marks the people present who are recognized by the system.
+This project is in progress and is the upgraded version of my old face recognition system. This project marks the people present who are recognized by the system, and the rest who are in the database are marked as abscent automatically when the system is closed or shut down.
